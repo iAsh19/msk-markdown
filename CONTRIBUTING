@@ -22,8 +22,8 @@ Don't ping or add comments to bring attention to your issue. Please be patient u
 
 # How to create a good pull request?
 
-Please create an issue or GitHub discussion before opening a pull request to discuss the new feature with the community, contributors, and maintainers to see if the feature is 
-applicable for implementation or not.
+Please create an issue or GitHub discussion before opening a pull request to discuss the new feature with the community, contributors, and maintainers to see if the feature 
+is applicable for implementation or not.
 
 If the pull request fixes an issue that is *already discussed*, feel free to open it!
 
